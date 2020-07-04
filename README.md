@@ -23,4 +23,10 @@ https://murra.tistory.com/28
 - [1000](https://www.acmicpc.net/problem/1000)
 
 - [2309](https://www.acmicpc.net/problem/2309)
-- 
+
+
+
+## Array
+
+- [10808](https://www.acmicpc.net/problem/10808)
+
